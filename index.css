@@ -1,0 +1,15 @@
+body{
+background-color: darkslategrey;
+color: white;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
