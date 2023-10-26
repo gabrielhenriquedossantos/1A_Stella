@@ -10,6 +10,15 @@ ul{
     padding: 16px;
 }
 img{
-    width: 400px;
+    width: 300px;
     height: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.center{
+    text-align: center;
+    color: white;
+}
+.resposta{
+    
 }
